@@ -30,8 +30,8 @@ ________________________________________________________________________________
 ```
 Customer_Churn_Prediction_Model/
 │
-├── data/
-│   └── raw/                        ← Original IBM Telco dataset
+├── data_raw/                  
+│  └──WA_Fn-UseC_-Telco-Customer-Churn.csv  ← Original IBM Telco dataset
 │
 ├── notebooks/
 │   └── customer_churn_prediction.ipynb   ← Full analysis notebook
